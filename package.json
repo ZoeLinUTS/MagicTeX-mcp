@@ -67,7 +67,7 @@
     "diff2html": "^3.4.56",
     "katex": "^0.16.47",
     "open": "^10.0.0",
-    "pdfjs-dist": "^4.10.38",
+    "pdfjs-dist": "^6.1.200",
     "playwright": "^1.40.0",
     "texlyre-busytex": "^1.2.3",
     "tsx": "^4.19.0",
