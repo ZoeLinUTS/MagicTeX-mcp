@@ -61,14 +61,14 @@
     "prepublishOnly": "npm run build:ui"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@modelcontextprotocol/sdk": "^1.30.0",
     "adm-zip": "^0.6.0",
     "chokidar": "^5.0.0",
     "diff2html": "^3.4.56",
     "katex": "^0.18.1",
     "open": "^11.0.0",
-    "pdfjs-dist": "^6.1.200",
-    "playwright": "^1.62.0",
+    "pdfjs-dist": "^6.2.108",
+    "playwright": "^1.62.1",
     "texlyre-busytex": "^1.2.3",
     "tsx": "^4.19.0",
     "ws": "^8.18.0",
