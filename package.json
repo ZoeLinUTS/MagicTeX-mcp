@@ -72,7 +72,7 @@
     "texlyre-busytex": "^1.2.3",
     "tsx": "^4.19.0",
     "ws": "^8.18.0",
-    "zod": "^4.4.3"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/adm-zip": "^0.5.8",
